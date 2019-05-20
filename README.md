@@ -1,0 +1,2 @@
+ - build it with maven than run main class located at `com.github.yilmazorhan.clustersingleton.ClusterSingletonApp`
+ - check test package for cluster scenarios. 
